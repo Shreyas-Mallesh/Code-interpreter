@@ -1,0 +1,7 @@
+#requirements
+langchain
+deeplake
+streamlit
+python-dotenv
+openai
+sentence_transformers
