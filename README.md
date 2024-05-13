@@ -1,4 +1,4 @@
-# Codebase Interpreter is the interactive way for navigating through codebases.
+# This Codebase Interpreter provides an interactive way to navigate through the codebases.
 
 # Highlights
 Ease of Use: Simply input your OpenAI key and the name of your GitHub repository.
