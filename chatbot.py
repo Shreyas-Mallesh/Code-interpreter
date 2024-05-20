@@ -1,4 +1,4 @@
-# import libraries
+# importing required libraries
 import streamlit as st
 import utils
 import time
